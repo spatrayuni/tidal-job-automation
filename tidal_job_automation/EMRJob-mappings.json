@@ -1,0 +1,21 @@
+[
+    {
+        "Job_Name": "Feature-Creator-1",
+        "Scale": "Linear",
+        "mappings": {
+            "Time": "20",
+            "Average_Num_Nodes": "2",
+            "Ingest_Data_Size": "40"
+        }
+    },
+
+ {
+        "Job_Name": "Feature-Creator-2",
+        "Scale": "Linear",
+        "mappings": {
+            "Time": "40",
+            "Average_Num_Nodes": "6",
+            "Ingest_Data_Size": "100"
+        }
+    }
+  ]
